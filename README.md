@@ -1,7 +1,7 @@
 # SnakeGame
 # PYTHON DEVELOPED GAME
-install pygame directory using command 
-"pip install pygame" in command prompt
+# install pygame directory using command 
+# "pip install pygame" in command prompt
 
 
 import pygame
