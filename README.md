@@ -2,6 +2,7 @@
 # PYTHON DEVELOPED GAME
 # install pygame directory using command 
 # "pip install pygame" in command prompt
+# watch code perfectly in "raw format or blame format" by clicking that option 
 
 
 import pygame
