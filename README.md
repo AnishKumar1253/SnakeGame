@@ -5,7 +5,9 @@
 
 
 import pygame
+
 import sys
+
 import copy
 import random
 import time
